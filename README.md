@@ -78,11 +78,7 @@
 <a href = "https://twitter.com/kirtiraj_ingale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 <br/>
-
-
 ## ❤ **Views and Followers**
-<br/>
-
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kirtirajingale">
 </a>
