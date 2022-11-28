@@ -14,15 +14,12 @@
   
 - 💬 Ask me about :  **HTML | CSS | JavaScript | React**
 
-- 👯 I’m looking to collaborate on : **OpenSource Projects**
-
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://kirtirajingale.github.io/)**
   
 - 📄 Know about my experiences: **[Resume]()**
 
 - 📫 How to reach me : **Kirtirajingale46@gmail.com**
 
-- ⚡ Fun fact : **I'm District Level Batminton Player**
 <br/>
 
 ## 🚀 **Languages and Tools:**
@@ -50,7 +47,6 @@
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 </p>
  <br/>
-  <br/>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
@@ -60,8 +56,6 @@
     </a>
 </p>
 <br/>
-<br/>
-
 ## 📊 **My Github Stats**
 
   <br/>
