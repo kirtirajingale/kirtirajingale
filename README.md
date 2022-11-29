@@ -47,37 +47,40 @@
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 </p>
  <br/>
+  <br/>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img width="600px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=141B29"/>
     </a>
 </p>
+  <br/>
+  
   
 ## 📊 **My Github Stats**
 
  <br/>
   <p align="center">
-    <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=141B29" /></a>
+  <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" /></a>
   </p>
   <br/>
 
-<a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## **Connect with me:**
 
 <p align="left">
 
-<a href = "https://linkedin.com/in/kirtiraj-ingale"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/kirtiraj_ingale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://linkedin.com/in/kirtiraj-ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/kirtiraj_ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
   
 ## ❤ **Views and Followers**
   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kirtirajingale">
+    <img width="150px" src="https://komarev.com/ghpvc/?username=kirtirajingale">
 </a>
-<a href="https://github.com/kirtirajingale?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kirtirajingale?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
