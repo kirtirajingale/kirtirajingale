@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://kirtirajingale.github.io/)**
   
-- 📄 Know about my experiences: **[Resume]()**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1gjSw_aMA140Zr1TdlnI15YsFTYaNhZ3P/view?usp=sharing)**
 
 - 📫 How to reach me : **Kirtirajingale46@gmail.com**
 
