@@ -25,7 +25,7 @@
 ## 🚀 **Languages and Tools:**
 <br/>
 
-<p align="center" width="100%"> 
+<p align="left" width="100%"> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     </a> 
