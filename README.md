@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFVHKcQS7XlXg/profile-displaybackgroundimage-shrink_350_1400/0/1658908414246?e=1671667200&v=beta&t=OyZjfgFccraMmp20O20GkhFByFPyrepO6V7h4V4jIJI)
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQFVHKcQS7XlXg/profile-displaybackgroundimage-shrink_350_1400/0/1658908414246?e=1677110400&v=beta&t=XUf8WaztJAlTjVEa5XXRNFk-21TlQ50GQJgmQX2dHoo)
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kirtiraj Ingale</h2>
 <p align="center"><i>A passionate Full Stack Web Developer, capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, and Express on the backend to build a single page application..</i></p>
