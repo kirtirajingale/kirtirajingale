@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning : **NodeJS | MongoDB | ExpressJS | Mongoose**
   
-- 💬 Ask me about :  **HTML | CSS | JavaScript | React **
+- 💬 Ask me about :  **HTML | CSS | JavaScript | React**
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://kirtirajingale.github.io/)**
   
