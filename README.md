@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🌱 I’m currently learning : **React Redux**
+- 🌱 I’m currently learning : **NodeJS | MongoDB | Mongoose**
   
-- 💬 Ask me about :  **HTML | CSS | JavaScript | React**
+- 💬 Ask me about :  **HTML | CSS | JavaScript | React | NodeJS | Mongoose | MongoDB**
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://kirtirajingale.github.io/)**
   
@@ -24,7 +24,7 @@
 
 ## 🚀 **Languages and Tools:**
 <div >
- <div ><h3>Frontend:-</h3>
+ <div ><h3>FRONTEND TOOLS : -</h3>
  <img src="https://img.shields.io/badge/html5-ff7043.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
   <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -34,14 +34,17 @@
  <img src="https://img.shields.io/badge/rest api-4A154B.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
 </div>
 
-  <div ><h3>Backend:-</h3> 
+  <br/>
+  
+  <div ><h3>BACKEND TOOLS : -</h3> 
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-
  </div>
-  <div ><h3>Tools:-</h3> 
-   
+  
+  <br/>
+  
+  <div ><h3>SUPPORTING TOOLS : -</h3> 
    <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-5c6bc0?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-4A154B?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
@@ -50,11 +53,11 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
- <br/>
-  <br/>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
+  <br/>
+  <hr/>
+  <br/>
+  
 <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-streak-stats">
         <img width="600px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=141B29"/>
@@ -72,7 +75,7 @@
   </p>
   <br/>
 
-<!-- <a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 
 ## **Connect with me:**
