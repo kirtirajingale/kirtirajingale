@@ -81,7 +81,7 @@
   
 ## ❤ **Views and Followers**
   
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/kirtirajingale/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=kirtirajingale">
 </a>
 <a href="https://github.com/kirtirajingale?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
