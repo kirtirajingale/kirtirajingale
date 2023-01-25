@@ -5,7 +5,6 @@
 
 <br/>
 
-
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" alt="Coding" width="450" height="260"   alt="error"/>
 
 ## 🙋‍♂️ **About Me**
@@ -74,14 +73,13 @@
 ## 📊 **My Github Stats**
 
  <br/>
+ 
   <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=141B29" /></a>
   <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" /></a>
   </p>
-  <br/>
-
-<!-- <a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
   
+  <br/>
 
 ## **Connect with me:**
 
@@ -96,5 +94,7 @@
 <a href="https://github.com/kirtirajingale/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=kirtirajingale">
 </a>
-<a href="https://github.com/kirtirajingale?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/kirtirajingale?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kirtirajingale?tab=followers">
+  <img width="150px" src="https://img.shields.io/github/followers/kirtirajingale?label=Followers&style=social" alt="GitHub Badge">
+</a>
 
