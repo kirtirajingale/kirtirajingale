@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-    <img src="https://img.shields.io/badge/Mongooes.js-%23323330?style=for-the-badge&logo=mongooesjs&logoColor=white" align="center" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Mongooes-%23323330?style=for-the-badge&logo=mongooesjs&logoColor=white" align="center" alt="nodejs" />
  </div>
   
   <br/>
