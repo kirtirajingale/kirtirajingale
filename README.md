@@ -32,6 +32,7 @@
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
  <img src="https://img.shields.io/badge/rest api-4A154B.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
+  <img src="https://img.shields.io/badge/nextjs-20232A.svg?style=for-the-badge&logo=nextJs&logoColor=white" align="center" alt="restapi"/> 
 </div>
 
   <br/>
@@ -75,7 +76,7 @@
   </p>
   <br/>
 
-<a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/kirtirajingale/github-readme-activity-graph"><img alt="Kirtiraj Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtirajingale&bg_color=141B29&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
   
 
 ## **Connect with me:**
