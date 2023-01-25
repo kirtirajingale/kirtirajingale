@@ -10,15 +10,15 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🌱 I’m currently learning : **NodeJS | MongoDB | ExpressJS | Mongoose**
+-  Currently Learning : **NodeJS | MongoDB | ExpressJS | Mongoose**
   
-- 💬 Ask me about :  **HTML | CSS | JavaScript | React**
+-  Expertise Till Now :  **HTML | CSS | JavaScript | React**
 
-- 👨‍💻 All of my projects are available at : **[Portfolio](https://kirtirajingale.github.io/)**
+-  Showcased Projects  : **[Portfolio](https://kirtirajingale.github.io/)**
   
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1gjSw_aMA140Zr1TdlnI15YsFTYaNhZ3P/view?usp=sharing)**
+-  Experience :  **[Resume](https://drive.google.com/file/d/1gjSw_aMA140Zr1TdlnI15YsFTYaNhZ3P/view?usp=sharing)**
 
-- 📫 How to reach me : **Kirtirajingale46@gmail.com**
+-  Email ID :  **Kirtirajingale46@gmail.com**
 
 <br/>
 
