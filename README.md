@@ -30,7 +30,6 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
- <img src="https://img.shields.io/badge/rest api-4A154B.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
  <img src="https://img.shields.io/badge/nextjs-20232A.svg?style=for-the-badge&logo=Next.js&logoColor=white" align="center" alt="nextjs"/> 
  <img src ="https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%23F7DF1E" align="center" alt="Storybook">
 </div>
