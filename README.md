@@ -27,12 +27,13 @@
  <div ><h3>FRONTEND TOOLS : -</h3>
  <img src="https://img.shields.io/badge/html5-ff7043.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+ <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
  <img src="https://img.shields.io/badge/rest api-4A154B.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
-  <img src="https://img.shields.io/badge/nextjs-20232A.svg?style=for-the-badge&logo=nextJs&logoColor=white" align="center" alt="restapi"/> 
+ <img src="https://img.shields.io/badge/nextjs-20232A.svg?style=for-the-badge&logo=Next.js&logoColor=white" align="center" alt="restapi"/> 
+ <img src ="https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%23F7DF1E" align="center" alt="javascript">
 </div>
 
   <br/>
@@ -41,7 +42,7 @@
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-    <img src="https://img.shields.io/badge/Mongooes-%23323330?style=for-the-badge&logo=mongooesjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Mongooes-%23323330?style=for-the-badge&logo=mongoose&logoColor=white" align="center" alt="nodejs" />
  </div>
   
   <br/>
@@ -52,7 +53,7 @@
    <img src="https://img.shields.io/badge/GitHub-4A154B?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src = "https://img.shields.io/badge/NPM-20232A.svg?style=for-the-badge&logo=npm&logoColor=red" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=blue"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fdd835" align="center" alt="slack"/>
     <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
  </div>
 </div>
