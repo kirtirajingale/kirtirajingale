@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/Mongooes.js-%23323330?style=for-the-badge&logo=mongooesjs&logoColor=white" align="center" alt="nodejs" />
  </div>
   
   <br/>
@@ -52,6 +53,7 @@
    <img src = "https://img.shields.io/badge/NPM-20232A.svg?style=for-the-badge&logo=npm&logoColor=red" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=blue"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+    <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
  </div>
 </div>
 
