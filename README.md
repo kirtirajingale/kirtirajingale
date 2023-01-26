@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ **About Me**
 
--  Currently Learning : **NodeJS | MongoDB | ExpressJS | Mongoose**
+-  Currently Learning : **NodeJS | MongoDB | ExpressJS**
   
 -  Expertise Till Now :  **HTML | CSS | JavaScript | React**
 
