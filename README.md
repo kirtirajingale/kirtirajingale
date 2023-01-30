@@ -106,4 +106,4 @@
 
 <h2 align="center"><i> 🚀🙋‍♂️ Thank You for giving your valuable time to view my GitHub Profile 🙋‍♂️ 🚀</i></h2>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" height="10px">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" height="12px">
