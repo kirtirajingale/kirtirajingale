@@ -34,7 +34,7 @@
  <img src ="https://img.shields.io/badge/typescript-4A154B.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E" align="center" alt="typescript">
 </div>
 
-  <br/>
+<br/>
   
   <div ><h3>BACKEND TOOLS : -</h3> 
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/rest api-20232A.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/> 
  </div>
   
-  <br/>
+<br/>
   
   <div ><h3>SUPPORTING TOOLS : -</h3> 
    <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
@@ -60,33 +60,33 @@
  </div>
 </div>
 
-  <br/>
+<br/>
   <hr/>
-  <br/>
+<br/>
   
 <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-streak-stats">
         <img width="650px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=141B29" />
     </a>
 </p>
-  <br/>
+ 
+<br/>
   
   
 ## 📊 **Github Stats**
 
- <br/>
+<br/>
  
   <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=141B29" /></a>
   <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" height="215px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" /></a>
   </p>
   
- <br/>
+<br/>
 
 ##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
 
 <p align="left">
-
 <a href = "https://linkedin.com/in/kirtiraj-ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kirtiraj_ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
