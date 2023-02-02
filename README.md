@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQFVHKcQS7XlXg/profile-displaybackgroundimage-shrink_350_1400/0/1658908414246?e=1677110400&v=beta&t=XUf8WaztJAlTjVEa5XXRNFk-21TlQ50GQJgmQX2dHoo)
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kirtiraj Ingale</h2>
-<h4 align="center"><i>A passionate Full Stack Web Developer, capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, and Express on the backend to build a single page application</i></h4>
+<h4 align="center"><i>A passionate Full Stack Web Developer, capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, and Express on the backend to build a single page application.</i></h4>
 
 <br/>
 
@@ -81,7 +81,7 @@
   <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" height="215px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" /></a>
   </p>
   
-  <br/>
+ <br/>
 
 ##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
 
