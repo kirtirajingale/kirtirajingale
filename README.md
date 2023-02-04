@@ -8,7 +8,7 @@
 
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" alt="Coding" width="450"  alt="error"/>
 
-## 🙋‍♂️ **About Me**
+## 🙋‍♂️ **About Me** 
 
 -  Currently Learning : **NodeJS | MongoDB | ExpressJS**
   
