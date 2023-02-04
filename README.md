@@ -12,7 +12,7 @@
 
 -  Currently Learning : **NodeJS | MongoDB | ExpressJS**
   
--  Expertise Till Now :  **HTML | CSS | JavaScript | React**
+-  Expertise Till Now :  **HTML | CSS | JavaScript | ReactJS**
 
 -  Showcased Projects  : **[Portfolio](https://kirtirajingale.github.io/)**
   
