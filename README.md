@@ -23,7 +23,7 @@
 <br/>
 
 ## 🚀 **Languages and Tools:**
-<div >
+<div>
  <div ><h3>FRONTEND TOOLS : -</h3>
  <img src="https://img.shields.io/badge/html5-ff7043.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
@@ -37,7 +37,7 @@
 
 <br/>
   
-  <div ><h3>BACKEND TOOLS : -</h3> 
+  <div><h3>BACKEND TOOLS : -</h3> 
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
