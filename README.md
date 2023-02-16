@@ -50,7 +50,7 @@
 <br/>
   
   <div ><h3>SUPPORTING TOOLS : -</h3> 
-   <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-4A154B?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src = "https://img.shields.io/badge/NPM-20232A.svg?style=for-the-badge&logo=npm&logoColor=red" align="center" alt="npm">
