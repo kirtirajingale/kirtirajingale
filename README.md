@@ -18,7 +18,7 @@
   
 -  Experience :  **[Resume](https://drive.google.com/file/d/1gjSw_aMA140Zr1TdlnI15YsFTYaNhZ3P/view?usp=sharing)**
 
--  Email ID :  **Kirtirajingale46@gmail.com**
+-  Email ID : **Kirtirajingale46@gmail.com**
 
 <br/>
 
