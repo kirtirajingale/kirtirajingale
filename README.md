@@ -50,15 +50,16 @@
 <br/>
   
   <div ><h3>SUPPORTING TOOLS : -</h3> 
-   <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-4A154B?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src = "https://img.shields.io/badge/NPM-20232A.svg?style=for-the-badge&logo=npm&logoColor=red" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=blue"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fdd835" align="center" alt="slack"/>
-    <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
-      <img src = "https://img.shields.io/badge/codesandbox-%23323330.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
+   <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
+   <img src = "https://img.shields.io/badge/codesandbox-%23323330.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="npm">
  </div>
+  
 </div>
 
 <br/>
