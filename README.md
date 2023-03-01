@@ -86,6 +86,14 @@
   
 <br/>
 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kirtirajingale&theme=react-dark&hide_border=true" /></a>
+  
+<h2 align="left">⚡Github Metrix:</h2>
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtirajingale&theme=github_dark" />
+</p>
+
 ##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
 
 <p align="left">
