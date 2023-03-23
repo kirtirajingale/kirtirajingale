@@ -79,13 +79,20 @@
 ## 📊 **Github Stats**
 
 <br/>
- 
-  <p align="center">
+
+<!--   <p align="center">
     <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=141B29" /></a>
   <a href="https://github.com/kirtirajingale/github-readme-stats"><img width="500px" height="215px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" /></a>
-  </p>
+  </p> -->
   
 <br/>
+
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&theme=react&hide_border=true&show_icons=true&locale=en" alt="kirtirajingale" />
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=react&hide_border=true" alt="Loki343" />
+</div>
+
+   
 
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kirtirajingale&theme=react-dark&hide_border=true" /></a>
