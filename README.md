@@ -87,7 +87,6 @@
 
 
 
-   
 
 <h2 align="left">⚡Activity Graph:</h2>
   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kirtirajingale&theme=react-dark&hide_border=true" />
