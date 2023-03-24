@@ -109,7 +109,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center"><i> 🚀🙋‍♂️ Thank You for giving your valuable time to view my GitHub Profile 🙋‍♂️ 🚀</i></h2>
 
