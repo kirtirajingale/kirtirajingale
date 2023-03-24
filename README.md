@@ -102,11 +102,10 @@
   
 ## ❤ **Views and Followers**
   
-
+<div display="flex">
    <img width="150px" src="https://komarev.com/ghpvc/?username=kirtirajingale">
-
-
-  <img width="150px" src="https://img.shields.io/github/followers/kirtirajingale?label=Followers&style=social" alt="GitHub Badge">
+   <img width="150px" src="https://img.shields.io/github/followers/kirtirajingale?label=Followers&style=social" alt="GitHub Badge">
+</div>
 
 <br/>
 <br/>
