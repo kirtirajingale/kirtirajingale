@@ -70,9 +70,6 @@
 <p align="center">
         <img width="650px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=141B29" />
 </p>
-<!-- <div align="center">
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=react&hide_border=true" alt="Loki343" />
-</div> -->
  
 <br/>
   
