@@ -67,14 +67,12 @@
   <hr/>
 <br/>
   
-<!-- <p align="center">
-    <a src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&theme=react&hide_border=true" >
+<p align="center">
         <img width="650px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtiraj Ingale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=black-ice&hide_border=true&stroke=0000&background=141B29" />
-    </a>
-</p> -->
-<div align="center">
+</p>
+<!-- <div align="center">
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtirajingale&theme=react&hide_border=true" alt="Loki343" />
-</div>
+</div> -->
  
 <br/>
   
@@ -85,15 +83,15 @@
 
   <p align="center">
     <img width="500px" alt="Kirtiraj Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=141B29" />
- <img width="500px" height="215px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" />
+    <img width="500px" height="215px" alt="Kirtiraj Ingale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtirajingale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=141B29" />
   </p>
   
 <br/>
 
-<div align="center">
+<!-- <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&theme=react&hide_border=true&show_icons=true&locale=en" alt="kirtirajingale" />
   
-</div>
+</div> -->
 
    
 
