@@ -85,10 +85,7 @@
   
 <br/>
 
-<!-- <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtirajingale&theme=react&hide_border=true&show_icons=true&locale=en" alt="kirtirajingale" />
-  
-</div> -->
+
 
    
 
