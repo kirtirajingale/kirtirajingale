@@ -4,7 +4,6 @@
 <h4 align="center"><i>A passionate Full Stack Web Developer, capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, and Express on the backend to build a single page application.</i></h4>
 
 
-
 <br/>
 
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" alt="Coding" width="450"  alt="error"/>
