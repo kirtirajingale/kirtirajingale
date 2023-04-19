@@ -46,6 +46,7 @@
   <img src ="https://img.shields.io/badge/Jest-20232A.svg?style=for-the-badge&logo=jest&logoColor=%23F7DF1E" align="center" alt="jest">
   <img src ="https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%23F7DF1E" align="center" alt="Storybook">
   <img src="https://img.shields.io/badge/rest api-20232A.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/> 
+   
  </div>
   
 <br/>
@@ -60,6 +61,7 @@
    <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
    <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
    <img src = "https://img.shields.io/badge/codesandbox-%23323330.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="npm">
+    
  </div>
   
 </div>
