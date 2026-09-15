@@ -5,66 +5,156 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KIRTIRAJ%20INGALE&fontSize=55&fontAlignY=38&desc=SOCIAL%20MEDIA%20%7C%20VIDEO%20%7C%20CREATIVE%20%7C%20AI&descAlignY=62&animation=fadeIn&fontColor=ffffff&color=0:0f0f0f,50:171717,100:000000" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=230&text=KIRTIRAJ%20INGALE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOCIAL%20MEDIA%20%7C%20VIDEO%20EDITING%20%7C%20CREATIVE%20%7C%20AI&descSize=17&descAlignY=60&animation=fadeIn&color=0:08080C,35:17112B,65:4C1D95,100:7C3AED"
+width="100%"
+alt="Kirtiraj Ingale"
+/>
+
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=SOCIAL+MEDIA+MARKETING+SPECIALIST;PROFESSIONAL+VIDEO+EDITOR;CREATIVE+CONTENT+STRATEGIST;MOTION+GRAPHICS+%26+TYPOGRAPHY;AI+WORKFLOW+SPECIALIST"
+alt="Professional specialization animation"
+/>
 
 <br/>
 
-# 🎬 SOCIAL MEDIA × VIDEO × AI
+<div align="center">
 
-### **I don't just create content. I build attention.**
+<table>
+<tr>
 
-<p>
-I help businesses turn their ideas into <strong>strategic social media content,
-high-impact videos and creative digital experiences</strong>.
+<td align="center">
+<img src="https://img.shields.io/badge/VIDEO%20EDITING-FFFFFF?style=for-the-badge&labelColor=7C3AED&color=7C3AED" alt="Video Editing"/>
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/SOCIAL%20MEDIA-FFFFFF?style=for-the-badge&labelColor=EC4899&color=EC4899" alt="Social Media"/>
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/MOTION%20GRAPHICS-FFFFFF?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" alt="Motion Graphics"/>
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-FFFFFF?style=for-the-badge&labelColor=C084FC&color=C084FC" alt="AI Integration"/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+---
+
+<div align="left">
+
+# 01 / WHO I AM
+
+<br/>
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="middle">
+
+<h2 align="center">Hey, I'm Kirtiraj Ingale 👋</h2>
+<br/>
+<p align="center">
+  <strong>
+    Social Media Marketer · Video Editor · Creative Strategist · AI Workflow Specialist
+  </strong>
 </p>
 
 <br/>
 
-<a href="https://clever-hummingbird-d1e753.netlify.app">
-<img src="https://img.shields.io/badge/🎬%20VIEW%20VIDEO%20PORTFOLIO-ffffff?style=for-the-badge&labelColor=111111&color=111111"/>
-</a>
+<p>
+I'm passionate about creating content where
+<strong>strategy meets creativity.</strong>
+</p>
 
- 
+<p align="center">
+My work brings together:
+</p>
 
-<a href="mailto:Kirtirajingale15@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20LET'S%20WORK%20TOGETHER-ffffff?style=for-the-badge&labelColor=111111&color=111111"/>
-</a>
+<table align="center">
+<tr>
+<td>📱</td>
+<td><strong>Social Media Strategy</strong></td>
+</tr>
+
+<tr>
+<td>🎥</td>
+<td><strong>Visual Storytelling</strong></td>
+</tr>
+
+<tr>
+<td>🎬</td>
+<td><strong>Professional Video Editing</strong></td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><strong>AI-Powered Workflows</strong></td>
+</tr>
+</table>
+
+<table>
+
+</table>
+
+<p>
+I work across the complete content journey,
+from <strong>account setup and strategy</strong>
+to <strong>shooting, editing, creative execution
+and publishing.</strong>
+</p>
+<br/>
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="360"
+alt="Creative professional working on video editing"
+/>
+
+<br/>
+
+<blockquote>
+<strong>Make brands more visible,<br/>
+more memorable and more engaging.</strong>
+</blockquote>
+
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED"
+width="70%"
+alt=""
+/>
 
 </div>
 
 ---
 
-# 01 / WHO I AM
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### **Kirtiraj Ingale**
-
-**Social Media Marketer • Video Editor • Creative Strategist • AI Workflow Specialist**
-
-I'm passionate about creating content where **strategy meets creativity**.
-
-My work combines:
-
-**Social Media Strategy**
-**+**
-**Visual Storytelling**
-**+**
-**Professional Video Editing**
-**+**
-**AI-powered workflows**
-
-The objective is simple:
-
-> **Make brands more visible, more memorable and more engaging.**
-
-I work across the complete content journey, from **account setup and strategy to shooting, editing, creative execution and publishing**.
-
-<br clear="right"/>
-
----
-
-# 02 / WHAT I DO
+ <h1 align="left"> 02 / What We Do </h1>
 
 <div align="center">
 
@@ -78,34 +168,241 @@ I work across the complete content journey, from **account setup and strategy to
 </div>
 
 ---
+ <h1 align="left"> 03 / SOCIAL MEDIA MARKETING </h1>
 
-# 03 / SOCIAL MEDIA MARKETING
+<div align="center">
 
-### **From a blank profile to a complete content system.**
+<h2>From a blank profile to a complete content system.</h2>
 
-I help businesses establish a professional social media presence and create a strategy around **what to post, why to post it and how to make people care**.
+<p>
+I help businesses build a stronger digital presence through
+<strong>strategy, creativity and content that people remember.</strong>
+</p>
 
-### SERVICES
+<br/>
 
-**01. Account Setup & Optimization**
-Professional profile setup, positioning and content direction.
+<img
+  src="https://img.shields.io/badge/STRATEGY%20%E2%80%A2%20CONTENT%20%E2%80%A2%20CREATIVITY-FFFFFF?style=for-the-badge&labelColor=17112B&color=EC4899"
+  alt="Strategy Content Creativity"
+/>
 
-**02. Content Strategy**
-A structured content system built around the brand, audience and goals.
+</div>
 
-**03. Content Planning**
-Ideas, formats, themes, hooks and posting direction.
+<div align="center">
 
-**04. Reels Strategy**
-Short-form concepts designed around attention, retention and engagement.
+<h3>✦ SERVICES</h3>
 
-**05. Creative Direction**
-Turning a business idea into a visual concept people can understand quickly.
+<br/>
 
-**06. AI-Assisted Marketing**
-Using AI to accelerate research, ideation, content creation and workflows.
+<table width="100%" cellpadding="24" cellspacing="0">
 
----
+<!-- ======================= ROW 01 ======================= -->
+
+<tr>
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=7C3AED&color=7C3AED"
+  alt="01"
+/>
+
+<strong>📱 ACCOUNT SETUP &amp; OPTIMIZATION</strong>
+
+<b>Build the foundation.</b>
+
+Professional profile setup, positioning and content direction designed to create a strong first impression.
+<br/><br/>
+</td>
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=EC4899&color=EC4899"
+  alt="02"
+/>
+
+<strong>🎯 CONTENT STRATEGY</strong>
+
+<b>Know what to say.</b>
+
+A structured content system built around your brand, audience, objectives and long-term growth.
+<br/><br/>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= ROW 02 ======================= -->
+
+<tr>
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=8B5CF6&color=8B5CF6"
+  alt="03"
+/>
+
+<strong>💡 CONTENT PLANNING</strong>
+
+<b>Never run out of ideas.</b>
+
+Ideas, formats, themes, hooks and publishing concepts that turn random posting into purposeful content.
+<br/><br/>
+</td>
+
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=A855F7&color=A855F7"
+  alt="04"
+/>
+
+<strong>🎬 REELS STRATEGY</strong>
+
+<b>Stop the scroll.</b>
+
+Short-form concepts built around attention, retention, storytelling and meaningful engagement.
+<br/><br/>
+</td>
+
+</tr>
+
+
+<!-- ======================= ROW 03 ======================= -->
+
+<tr>
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=C026D3&color=C026D3"
+  alt="05"
+/>
+
+<strong>🎨 CREATIVE DIRECTION</strong>
+
+<b>Make the idea visual.</b>
+
+Turning business ideas into clear, engaging and visually compelling concepts people can understand quickly.
+<br/><br/>
+</td>
+
+
+<td width="50%" valign="center">
+<br/>
+
+<img
+  src="https://img.shields.io/badge/06-FFFFFF?style=flat-square&labelColor=DB2777&color=DB2777"
+  alt="06"
+/>
+
+<strong>🤖 AI-ASSISTED MARKETING</strong>
+
+<b>Create smarter.</b>
+
+Using AI to accelerate research, ideation, content creation and marketing workflows while keeping creativity human.
+<br/><br/>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+
+<div width="100%" align="center">
+<img
+  src="https://img.shields.io/badge/MY%20CREATIVE%20APPROACH-FFFFFF?style=for-the-badge&labelColor=0B0B14&color=7C3AED"
+  alt="My Creative Approach"
+  height="60"
+/>
+<br/><br/>
+<table width="100%" cellpadding="24" cellspacing="0">
+
+<tr>
+
+<td width="20%" align="center" valign="middle">
+<br/>
+<img
+  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=7C3AED&color=7C3AED"
+  alt="01"
+/>
+
+<strong>ATTENTION</strong>
+<br/><br/>
+
+
+</td>
+
+
+<td width="20%" align="center" valign="middle">
+<br/>
+<img
+  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=8B5CF6&color=8B5CF6"
+  alt="02"
+/>
+
+<strong>CURIOSITY</strong>
+<br/><br/>
+
+</td>
+
+
+<td width="30%" align="center" valign="middle">
+<br/>
+<img
+  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=A855F7&color=A855F7"
+  alt="03"
+/>
+
+<strong>STORY</strong>
+<br/><br/>
+
+</td>
+
+
+<td width="20%" align="center" valign="middle">
+<br/>
+<img
+  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=C026D3&color=C026D3"
+  alt="04"
+/>
+
+<strong>EMOTION</strong>
+<br/><br/>
+
+</td>
+
+
+<td width="20%" align="center" valign="middle">
+<br/>
+<img
+  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=EC4899&color=EC4899"
+  alt="05"
+/>
+
+<strong>ACTION</strong>
+<br/><br/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 # 04 / VIDEO EDITING
 
@@ -334,15 +631,18 @@ AI can accelerate the process. The creative decision still needs a human.
 
 ### Watch it.
 
-<br/>
+<div align="center">
 
 <a href="https://clever-hummingbird-d1e753.netlify.app">
 
-<img src="https://img.shields.io/badge/▶%20EXPLORE%20VIDEO%20EDITING%20PORTFOLIO-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20MY%20VIDEO%20EDITING%20PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=7C3AED&color=EC4899&logoColor=FFFFFF" alt="Explore Video Editing Portfolio"/>
 
 </a>
 
-<br/><br/>
+</div>
+
+
+<br/>
 
 <i>
 Professional edits • Reels • Motion Graphics • Typography • Creative Videos
