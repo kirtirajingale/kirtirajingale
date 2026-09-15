@@ -447,7 +447,7 @@ smarter and more efficient.
 <br/>
 <div align="center">
 
-<a href="https://linkedin.com/in/kirtiraj-ingale" target="_blank">
+<a href="https://www.linkedin.com/in/kirtiraj-ingale-760994355/" target="_blank">
 <img
   src="https://img.shields.io/badge/%20LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3B0764&color=7C3AED"
   alt="LinkedIn"
