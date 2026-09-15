@@ -21,33 +21,14 @@ alt="Professional specialization animation"
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://clever-hummingbird-d1e753.netlify.app/" target="_blank">
 
-<td align="center">
-<img src="https://img.shields.io/badge/VIDEO%20EDITING-FFFFFF?style=for-the-badge&labelColor=7C3AED&color=7C3AED" alt="Video Editing"/>
-</td>
+<img
+  src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=4C1D95&color=4C1D95"
+  alt="Explore My Portfolio"
+/>
 
-<td width="12"></td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/SOCIAL%20MEDIA-FFFFFF?style=for-the-badge&labelColor=EC4899&color=EC4899" alt="Social Media"/>
-</td>
-
-<td width="12"></td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/MOTION%20GRAPHICS-FFFFFF?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" alt="Motion Graphics"/>
-</td>
-
-<td width="12"></td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/AI%20INTEGRATION-FFFFFF?style=for-the-badge&labelColor=C084FC&color=C084FC" alt="AI Integration"/>
-</td>
-
-</tr>
-</table>
+</a>
 
 </div>
 
@@ -182,7 +163,7 @@ I help businesses build a stronger digital presence through
 
 <br/>
 <img
-  src="https://img.shields.io/badge/STRATEGY%20%E2%80%A2%20CONTENT%20%E2%80%A2%20CREATIVITY-FFFFFF?style=for-the-badge&labelColor=17112B&color=EC4899"
+  src="https://img.shields.io/badge/STRATEGY%20%E2%80%A2%20CONTENT%20%E2%80%A2%20CREATIVITY-FFFFFF?style=for-the-badge&labelColor=4C1D95&color=4C1D95"
   alt="Strategy Content Creativity"
 />
 
@@ -204,7 +185,7 @@ I help businesses build a stronger digital presence through
 <br/>
 
 <img
-  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=7C3AED&color=7C3AED"
+  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="01"
 />
 
@@ -220,7 +201,7 @@ Professional profile setup, positioning and content direction designed to create
 <br/>
 
 <img
-  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=EC4899&color=EC4899"
+  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="02"
 />
 
@@ -244,8 +225,8 @@ A structured content system built around your brand, audience, objectives and lo
 <br/>
 
 <img
-  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=8B5CF6&color=8B5CF6"
-  alt="03"
+  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
+  alt="01"
 />
 
 <strong>💡 CONTENT PLANNING</strong>
@@ -261,7 +242,7 @@ Ideas, formats, themes, hooks and publishing concepts that turn random posting i
 <br/>
 
 <img
-  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=A855F7&color=A855F7"
+  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="04"
 />
 
@@ -284,7 +265,7 @@ Short-form concepts built around attention, retention, storytelling and meaningf
 <br/>
 
 <img
-  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=C026D3&color=C026D3"
+  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="05"
 />
 
@@ -301,7 +282,7 @@ Turning business ideas into clear, engaging and visually compelling concepts peo
 <br/>
 
 <img
-  src="https://img.shields.io/badge/06-FFFFFF?style=flat-square&labelColor=DB2777&color=DB2777"
+  src="https://img.shields.io/badge/06-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="06"
 />
 
@@ -324,7 +305,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 
 <div width="100%" align="center">
 <img
-  src="https://img.shields.io/badge/MY%20CREATIVE%20APPROACH-FFFFFF?style=for-the-badge&labelColor=0B0B14&color=7C3AED"
+  src="https://img.shields.io/badge/MY%20CREATIVE%20APPROACH-FFFFFF?style=for-the-badge&labelColor=4C1D95&color=4C1D95"
   alt="My Creative Approach"
   height="60"
 />
@@ -336,7 +317,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 <td width="20%" align="center" valign="middle">
 <br/>
 <img
-  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=7C3AED&color=7C3AED"
+  src="https://img.shields.io/badge/01-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="01"
 />
 
@@ -350,7 +331,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 <td width="20%" align="center" valign="middle">
 <br/>
 <img
-  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=8B5CF6&color=8B5CF6"
+  src="https://img.shields.io/badge/02-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="02"
 />
 
@@ -363,7 +344,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 <td width="30%" align="center" valign="middle">
 <br/>
 <img
-  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=A855F7&color=A855F7"
+  src="https://img.shields.io/badge/03-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="03"
 />
 
@@ -376,7 +357,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 <td width="20%" align="center" valign="middle">
 <br/>
 <img
-  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=C026D3&color=C026D3"
+  src="https://img.shields.io/badge/04-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="04"
 />
 
@@ -389,7 +370,7 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 <td width="20%" align="center" valign="middle">
 <br/>
 <img
-  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=EC4899&color=EC4899"
+  src="https://img.shields.io/badge/05-FFFFFF?style=flat-square&labelColor=4C1D95&color=4C1D95"
   alt="05"
 />
 
@@ -430,16 +411,22 @@ I transform raw footage into content that feels **intentional, polished and plat
 ---
 
 <h2 align="left"> MY EDITING STACK</h2>
-<br/><br/>
+<br/>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/CAPCUT-111111?style=for-the-badge&logo=capcut&logoColor=white"/>
-<img src="https://img.shields.io/badge/PREMIERE%20PRO-111111?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
-<img src="https://img.shields.io/badge/AFTER%20EFFECTS-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF"/>
-<img src="https://img.shields.io/badge/AI%20TOOLS-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20INTEGRATION-111111?style=for-the-badge&logo=probot&logoColor=white"/>
-<br/><br/>
+<img src="https://img.shields.io/badge/CAPCUT-FFFFFF?style=for-the-badge&labelColor=4C1D95&color=7C3AED" alt="CapCut"/>
 
+<img src="https://img.shields.io/badge/PREMIERE%20PRO-FFFFFF?style=for-the-badge&labelColor=5B21B6&color=8B5CF6" alt="Premiere Pro"/>
+
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-FFFFFF?style=for-the-badge&labelColor=6D28D9&color=A855F7" alt="After Effects"/>
+
+<img src="https://img.shields.io/badge/AI%20TOOLS-FFFFFF?style=for-the-badge&labelColor=7E22CE&color=C026D3" alt="AI Tools"/>
+
+<img src="https://img.shields.io/badge/%E2%9A%99%20AI%20INTEGRATION-FFFFFF?style=for-the-badge&labelColor=86198F&color=EC4899" alt="AI Integration"/>
+
+</div>
+<br/>
 
 <i>
 Constantly exploring new AI tools to make creative workflows faster,
@@ -458,17 +445,32 @@ smarter and more efficient.
 ### Let's turn the idea into something people remember.
 
 <br/>
+<div align="center">
 
-<a href="https://linkedin.com/in/kirtiraj-ingale">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/kirtiraj-ingale" target="_blank">
+<img
+  src="https://img.shields.io/badge/%20LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3B0764&color=7C3AED"
+  alt="LinkedIn"
+/>
 </a>
 
-<a href="https://clever-hummingbird-d1e753.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=netlify&logoColor=white"/>
+<a href="https://clever-hummingbird-d1e753.netlify.app/" target="_blank">
+<img
+  src="https://img.shields.io/badge/%20PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95&color=A855F7"
+  alt="Portfolio"
+/>
 </a>
+
 <a href="mailto:Kirtirajingale15@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL%20ME-111111?style=for-the-badge"/>
+<img
+  src="https://img.shields.io/badge/%20EMAIL%20ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=831843&color=EC4899"
+  alt="Email Me"
+/>
 </a>
+
+</div>
+
+
 </div>
 
 
