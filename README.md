@@ -121,19 +121,9 @@ more memorable and more engaging.</strong>
 
 </table>
 
-<br/>
-
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED"
-width="70%"
-alt=""
-/>
-
 </div>
-
----
 
  <h2 align="left"> What We Do </h2>
 <br/>
@@ -150,7 +140,6 @@ alt=""
 </div>
 <br/>
 
----
  <h2 align="left"> SOCIAL MEDIA MARKETING </h2>
 <div align="center">
 <br/>
