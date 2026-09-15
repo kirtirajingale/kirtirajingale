@@ -57,7 +57,7 @@ alt="Professional specialization animation"
 
 <div align="left">
 
-# 01 / WHO I AM
+<h2 align="left">WHO I AM </h2>
 
 <br/>
 
@@ -154,7 +154,8 @@ alt=""
 
 ---
 
- <h1 align="left"> 02 / What We Do </h1>
+ <h2 align="left"> What We Do </h2>
+<br/>
 
 <div align="center">
 
@@ -166,12 +167,12 @@ alt=""
 | Creative Direction |        Ads       |   Product Content  | Business Integration |
 
 </div>
+<br/>
 
 ---
- <h1 align="left"> 03 / SOCIAL MEDIA MARKETING </h1>
-
+ <h2 align="left"> SOCIAL MEDIA MARKETING </h2>
 <div align="center">
-
+<br/>
 <h2>From a blank profile to a complete content system.</h2>
 
 <p>
@@ -180,7 +181,6 @@ I help businesses build a stronger digital presence through
 </p>
 
 <br/>
-
 <img
   src="https://img.shields.io/badge/STRATEGY%20%E2%80%A2%20CONTENT%20%E2%80%A2%20CREATIVITY-FFFFFF?style=for-the-badge&labelColor=17112B&color=EC4899"
   alt="Strategy Content Creativity"
@@ -403,8 +403,9 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 </table>
 
 </div>
+<br/><br/>
 
-# 04 / VIDEO EDITING
+ <h2 align="left">VIDEO EDITING </h2>
 
 <div align="center">
 
@@ -414,7 +415,6 @@ Using AI to accelerate research, ideation, content creation and marketing workfl
 
 I transform raw footage into content that feels **intentional, polished and platform-ready**.
 
-### 🎞️ EDITING SPECIALITIES
 
 |                                   |                                                        |
 | --------------------------------- | ------------------------------------------------------ |
@@ -429,50 +429,17 @@ I transform raw footage into content that feels **intentional, polished and plat
 
 ---
 
-# 05 / CREATIVE PRODUCTION
-
-### **Because great editing starts with great footage.**
-
-My creative production services extend beyond the timeline.
-
-<br/>
-
-### 📸 MODEL SHOOTS
-
-Lifestyle-driven visual content for brands, products and social media campaigns.
-
-### 🎥 TESTIMONIAL SHOOTS
-
-Authentic customer stories captured and edited to build credibility and trust.
-
-### 🚁 DRONE SHOOTS
-
-Aerial perspectives and cinematic location footage for businesses, properties, events and campaigns.
-
-### 🎨 CREATIVE CONTENT
-
-Concept-driven shoots designed specifically for digital platforms.
-
----
-
-# 06 / MY EDITING STACK
-
+<h2 align="left"> MY EDITING STACK</h2>
+<br/><br/>
 <div align="center">
-
-### 🎬 EDITING
 
 <img src="https://img.shields.io/badge/CAPCUT-111111?style=for-the-badge&logo=capcut&logoColor=white"/>
 <img src="https://img.shields.io/badge/PREMIERE%20PRO-111111?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/AFTER%20EFFECTS-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF"/>
-
-<br/><br/>
-
-### 🤖 AI
-
 <img src="https://img.shields.io/badge/AI%20TOOLS-111111?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20INTEGRATION-111111?style=for-the-badge&logo=probot&logoColor=white"/>
-
 <br/><br/>
+
 
 <i>
 Constantly exploring new AI tools to make creative workflows faster,
@@ -482,197 +449,7 @@ smarter and more efficient.
 </div>
 
 ---
-
-# 07 / THE WAY I THINK
-
-<div align="center">
-
-### **ATTENTION**
-
-↓
-
-### **CURIOSITY**
-
-↓
-
-### **STORY**
-
-↓
-
-### **EMOTION**
-
-↓
-
-### **ACTION**
-
-</div>
-
-<br/>
-
-### **A video is not successful because it has transitions.**
-
-It is successful when someone:
-
-**stops scrolling → watches → understands → remembers → acts.**
-
-That's the mindset behind my editing and content strategy.
-
----
-
-# 08 / MY CREATIVE PROCESS
-
-```text
-┌──────────────────────────────────────────────┐
-│                 BRAND / BUSINESS             │
-└──────────────────────┬───────────────────────┘
-                       ↓
-                🎯 DEFINE THE GOAL
-                       ↓
-                👥 UNDERSTAND AUDIENCE
-                       ↓
-                💡 DEVELOP THE IDEA
-                       ↓
-                📝 BUILD THE CONTENT
-                       ↓
-                🎥 SHOOT / COLLECT FOOTAGE
-                       ↓
-                🎬 EDIT & STORYTELL
-                       ↓
-                ✨ MOTION / TYPOGRAPHY
-                       ↓
-                🤖 AI ENHANCEMENT
-                       ↓
-                📱 PLATFORM OPTIMIZATION
-                       ↓
-                🚀 PUBLISH & IMPROVE
-```
-
----
-
-# 09 / WHY THIS APPROACH?
-
-### **STRATEGY BEFORE DESIGN**
-
-Every piece of content should have a reason to exist.
-
-### **STORY BEFORE EFFECTS**
-
-Effects should support the message, not hide it.
-
-### **AUDIENCE BEFORE ALGORITHM**
-
-Algorithms change. Human attention doesn't.
-
-### **CREATIVITY + DATA**
-
-Creative ideas attract attention. Strategy gives that attention direction.
-
-### **AI + HUMAN THINKING**
-
-AI can accelerate the process. The creative decision still needs a human.
-
----
-
-# 10 / WHAT I CAN BUILD FOR A BRAND
-
-<div align="center">
-
-### START
-
-**Account Setup**
-
-↓
-
-### POSITION
-
-**Brand Identity & Content Direction**
-
-↓
-
-### STRATEGIZE
-
-**Content Strategy**
-
-↓
-
-### CREATE
-
-**Scripts • Shoots • Reels • Videos**
-
-↓
-
-### EDIT
-
-**Video • Motion • Typography**
-
-↓
-
-### OPTIMIZE
-
-**Platform-ready Content**
-
-↓
-
-### GROW
-
-**Consistent Digital Presence**
-
-</div>
-
----
-
-# 11 / 🎬 MY VIDEO PORTFOLIO
-
-<div align="center">
-
-## **SEE THE WORK.**
-
-### Don't take my word for it.
-
-### Watch it.
-
-<div align="center">
-
-<a href="https://clever-hummingbird-d1e753.netlify.app">
-
-<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20MY%20VIDEO%20EDITING%20PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=7C3AED&color=EC4899&logoColor=FFFFFF" alt="Explore Video Editing Portfolio"/>
-
-</a>
-
-</div>
-
-
-<br/>
-
-<i>
-Professional edits • Reels • Motion Graphics • Typography • Creative Videos
-</i>
-
-</div>
-
----
-
-# 12 / CURRENTLY EXPLORING
-
-<div align="center">
-
-🧠 **AI IN BUSINESS**
-
-🎬 **ADVANCED VIDEO EDITING**
-
-📱 **SHORT-FORM CONTENT STRATEGY**
-
-🎨 **CREATIVE DIRECTION**
-
-🤖 **AI-POWERED CONTENT WORKFLOWS**
-
-📈 **DIGITAL MARKETING**
-
-</div>
-
----
-
-# 13 / LET'S CREATE
+<h2 align="left"> LET'S CREATE</h2>
 
 <div align="center">
 
@@ -682,34 +459,26 @@ Professional edits • Reels • Motion Graphics • Typography • Creative Vid
 
 <br/>
 
-<a href="mailto:Kirtirajingale15@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL%20ME-111111?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
 <a href="https://linkedin.com/in/kirtiraj-ingale">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/kirtiraj_ingale">
-<img src="https://img.shields.io/badge/TWITTER-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://clever-hummingbird-d1e753.netlify.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-
+<a href="mailto:Kirtirajingale15@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20EMAIL%20ME-111111?style=for-the-badge"/>
+</a>
 </div>
 
----
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:171717,100:0f0f0f"/>
-
-### **CREATE. EDIT. STRATEGIZE. GROW.**
-
-<i>© Kirtiraj Ingale</i>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=%C2%A9%20KIRTIRAJ%20INGALE&fontSize=25&fontColor=FFFFFF&fontAlignY=58&desc=CREATE.%20EDIT.%20STRATEGIZE.%20GROW.&descSize=16&descAlignY=76&animation=fadeIn&color=0:7C3AED,35:5B21B6,65:4C1D95,100:0B0B14"
+  width="100%"
+  alt="© Kirtiraj Ingale"
+/>
 
 </div>
