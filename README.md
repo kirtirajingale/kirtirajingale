@@ -6,11 +6,10 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&text=KIRTIRAJ%20INGALE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOCIAL%20MEDIA%20%7C%20VIDEO%20EDITING%20%7C%20CREATIVE%20%7C%20AI&descSize=17&descAlignY=60&animation=fadeIn&color=0:08080C,35:17112B,65:4C1D95,100:7C3AED"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&text=KIRTIRAJ%20INGALE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOCIAL%20MEDIA%20%7C%20VIDEO%20EDITING%20%7C%20WEB%20DEVELOPMENT%20%7C%20AI%20INTEGRATION&descSize=17&descAlignY=60&animation=fadeIn&color=0:08080C,35:17112B,65:4C1D95,100:7C3AED)"
 width="100%"
 alt="Kirtiraj Ingale"
 />
-
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=SOCIAL+MEDIA+MARKETING+SPECIALIST;PROFESSIONAL+VIDEO+EDITOR;CREATIVE+CONTENT+STRATEGIST;MOTION+GRAPHICS+%26+TYPOGRAPHY;AI+WORKFLOW+SPECIALIST"
